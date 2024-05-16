@@ -39,3 +39,7 @@ Pandas（[教程](https://www.runoob.com/pandas/pandas-tutorial.html)）是Pytho
 
 
 ### 其他参考材料
+[Rosalind（生物信息算法问题练习）](https://rosalind.info/problems/locations/)
+[Bioinformatics自学材料](https://github.com/ossu/bioinformatics?tab=readme-ov-file)
+[Python for Everybody](https://www.py4e.com/lessons)
+[Edwards Lab](https://edwardslab.bmcb.georgetown.edu/teaching/binf5240/2023/)
