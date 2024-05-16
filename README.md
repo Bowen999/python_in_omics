@@ -10,7 +10,7 @@ HMDB和ChEBI是两个代谢物小分子数据库，分别储存在了chebi.csv�
 Pandas（[教程](https://www.runoob.com/pandas/pandas-tutorial.html)）是Python中最流行的数据处理package，在这个task中将使用这个package完成对表格的数据处理与输出。
 * **下载pandas，并读取两个表格，作为dataframe**
 * 通常代谢物被认为是质量（Monoisotopic Mass）小于等于1500 Da的小分子，**对于两个数据集，仅保留Monoisotopic Mass这一列的值小于1500的行**
-* [InChI Key](https://www.inchi-trust.org)是一种化学表示符号，其中，包含3个layers，通过‘-’分隔开来，其中第一个layer包含了主要的化学信息，添加一个新的列（InChIKey_main）
+* [InChI Key](https://www.inchi-trust.org)是一种化学表示符号，其中，包含3个layers，通过‘-’分隔开来，其中第一个layer包含了主要的化学信息，添加一个新的列（InChIKey_main）,
 
 ### Task 2 可视化
 ### Task 3 搜索与输出
