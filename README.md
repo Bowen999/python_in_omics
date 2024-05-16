@@ -1,6 +1,7 @@
 # Python in Omics
 ### 环境准备
 Python最常用的IDE（编辑器）为VS code，这个编辑器可以兼容绝大多数主流编程语言，并且有较多的插件。[VS Code下载]（https://visualstudio.microsoft.com/zh-hans/downloads/）
+
 此外，对于数据分析和可视化，Jupyter Notebook因为便于阅读与分享，也是一个流行的选择。[Anaconda & Jupyter Notebook的下载与使用](https://zhuanlan.zhihu.com/p/228114733)
 
 
@@ -30,7 +31,17 @@ Pandas（[教程](https://www.runoob.com/pandas/pandas-tutorial.html)）是Pytho
 
 
 
+
+
+
+
 ### Task 3 搜索与输出
+
+
+
+
+
+
 
 
 
@@ -38,8 +49,12 @@ Pandas（[教程](https://www.runoob.com/pandas/pandas-tutorial.html)）是Pytho
 
 
 
+
+
+
+
 ### 其他参考材料
-[Rosalind（生物信息算法问题练习）](https://rosalind.info/problems/locations/)
-[Bioinformatics自学材料](https://github.com/ossu/bioinformatics?tab=readme-ov-file)
-[Python for Everybody](https://www.py4e.com/lessons)
-[Edwards Lab](https://edwardslab.bmcb.georgetown.edu/teaching/binf5240/2023/)
+* [Rosalind（生物信息算法问题练习）](https://rosalind.info/problems/locations/)
+* [Bioinformatics自学材料](https://github.com/ossu/bioinformatics?tab=readme-ov-file)
+* [Python for Everybody](https://www.py4e.com/lessons)
+* [Edwards Lab](https://edwardslab.bmcb.georgetown.edu/teaching/binf5240/2023/)
